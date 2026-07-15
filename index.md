@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 Complex numbers are numbers with a *real component* and *imaginary component*
-a + bi where a and b are **real numbers** and i is the **imaginary unit**
+\\(a + bi)\\ where a and b are **real numbers** and i is the **imaginary unit**
 An extended explanation of complex numbers can be found [here] (https://www.resourceaholic.com/2014/04/matrix-multiplication.html?m=1)
 
 [![complex_image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlW1Bt0IOCf0-dF9u08cX4lph-tScgtU42-1b_1eo27g&s)
