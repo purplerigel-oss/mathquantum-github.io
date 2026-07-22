@@ -3,8 +3,15 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: false
+author_profile: true
 ---
+
+
+
+
+
+
+For Reference:
 Complex numbers are numbers with a *real component* and *imaginary component*
 \\(a + bi)\\ where a and b are **real numbers** and i is the **imaginary unit**
 An extended explanation of complex numbers can be found [here] (https://www.resourceaholic.com/2014/04/matrix-multiplication.html?m=1)
