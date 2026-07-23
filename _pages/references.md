@@ -1,3 +1,6 @@
+---
 title: "References"
-link: /references/
+permalink: /references/
 layout: archive-taxonomy
+author_profile: false
+---
