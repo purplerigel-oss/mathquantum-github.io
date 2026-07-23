@@ -5,6 +5,7 @@
 layout: single
 author_profile: true
 ---
+**A literature review explores the intersection between quantum computing and horticulture (specifically plant disease detection). In this paper, the usage of **
 
 
 
