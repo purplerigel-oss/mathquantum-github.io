@@ -9,6 +9,12 @@ author_profile: true
 
 **A literature review explores the intersection between quantum computing and horticulture (specifically plant disease detection). In this paper, the usage of quantum computing and quantum machine learning will be discussed and assessed to determine the methods and the efficacy of this application.**
 
+## Background:
+Traditionally, plant diseases are checked by hand simply through visual cues that the human eye can perceive. However, there are a great number of faults related to manual observation and assessment, namely that it can be inaccurate and time-consuming. 
+
+In order to make this process easier and more efficient, researchers are looking at machine learning as a way to quickly and effectively assess crops for a variety of types of plants. By providing hybrid quantum-classical systems with data of existing diseases, researchers hope to. Specifically, quantum systems are generally used to analyze given data and actual cases.
+Studies have already taken place that utilize this technology with a wide variety of crops including [apples](https://www.researchgate.net/profile/Saurabh-Srivastava-14/publication/400349244_Hybrid_Quantum-Classical_Convolutional_Neural_Network_HQC-CNN_for_Apple_Leaf_Disease_Classification/links/6980ac5642f94d1212a5d61a/Hybrid-Quantum-Classical-Convolutional-Neural-Network-HQC-CNN-for-Apple-Leaf-Disease-Classification.pdf), [wheat](https://www.researchgate.net/publication/379357870_Application_of_quantum_computing_in_image_processing_for_recognition_of_infectious_diseases_of_wheat), and [rice](https://onlinelibrary.wiley.com/doi/10.1155/int/9911441). 
+
 
 ## References
 
@@ -20,17 +26,4 @@ author_profile: true
 
 
 
-For Reference:
-Complex numbers are numbers with a *real component* and *imaginary component*
-\\(a + bi)\\ where a and b are **real numbers** and i is the **imaginary unit**
-An extended explanation of complex numbers can be found [here] (https://www.resourceaholic.com/2014/04/matrix-multiplication.html?m=1)
 
-[![complex_image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlW1Bt0IOCf0-dF9u08cX4lph-tScgtU42-1b_1eo27g&s)
-
-Complex numbers can also be represented in polar form as below.
-[![polar_form](https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3A0bc82efbf67a17d08f623f74c1a3c03911079b84404a2a5c486fc408%2BIMAGE_TINY%2BIMAGE_TINY.1)]
-
-(https://math.libretexts.org/Bookshelves/Precalculus/Precalculus_1e_(OpenStax)/08%3A_Further_Applications_of_Trigonometry/8.05%3A_Polar_Form_of_Complex_Numbers)
-
-To understand how the polar form is derived, check out this video: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lFT2hwsCMls?si=KpZM1HVsF6wPEbmT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
