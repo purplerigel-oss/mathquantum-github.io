@@ -7,7 +7,7 @@ author_profile: true
 ---
 # .... (text is being planned out in a Google Doc and will be pasted in)
 
-**A literature review explores the intersection between quantum computing and horticulture (specifically plant disease detection). In this paper, the usage of quantum computing and autumn machine learning will be discussed and assessed to determine the methods and the efficacy of this application.**
+**A literature review explores the intersection between quantum computing and horticulture (specifically plant disease detection). In this paper, the usage of quantum computing and quantum machine learning will be discussed and assessed to determine the methods and the efficacy of this application.**
 
 
 ## References
