@@ -14,7 +14,7 @@ author_profile: true
 
 
 
-## A video on plant pathology that should give a good overview on the varieties of common plant diseases:[!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVYQcvrBnexTRpw7SQv8dEU_yECm7iks-FPX7ntfSuQ&s=10)](https://youtu.be/tO81G3crbb4?si=0XvNIhjf61m3PllS)
+##[A video on plant pathology that should give a good overview on the varieties of common plant diseases (https://youtu.be/tO81G3crbb4?si=0XvNIhjf61m3PllS)
 
 
 
