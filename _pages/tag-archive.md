@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
+title: "References"
 permalink: /tags/
-layout: tags
-author_profile: true
+layout: archive-taxonomy
+author_profile: false
 ---
